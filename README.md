@@ -1,2 +1,2 @@
-# Protractor-
+# Protractor
 N/A
